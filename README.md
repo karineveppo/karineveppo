@@ -1,4 +1,4 @@
-### Olá!! Sou Karine Veppo, futura desenvolvedora Full Stack!!
+### Olá!! Seja bem vindo ao meu GitHub!!
 
 <div align="center">
   <a href="https://github.com/karineveppo">
